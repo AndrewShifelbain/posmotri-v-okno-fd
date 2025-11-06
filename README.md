@@ -1,3 +1,5 @@
+https://github.com/AndrewShifelbain/posmotri-v-okno-fd
+
 # Посмотри в окно
 ____
 ## Проектная работа второго спринта на курсе fullstack разработчик от Яндекс Практикум
